@@ -1,0 +1,133 @@
+*{
+    margin: 0%;
+    padding: 5px;
+}
+
+div img{
+    width: 78px;
+    height: 78px;
+}
+
+.heading{
+    text-align: center;
+    font-size: 34px;
+    margin-bottom: 10px;
+    
+}
+
+.loginpage{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+
+.loginbox{
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: auto;
+    padding: 12px;
+    width: 410px;
+    height: 250px;
+    background-color: rgb(237, 244, 251);
+    border: .5px solid;
+}
+
+input[type=text]{
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: .5px solid;
+    margin: 10px 0;
+}
+
+input[type=password]{
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: .5px solid;
+    margin: 10px 0;
+}
+
+.name{
+    text-align: left;
+    font-size: 18px;
+}
+
+.pswrd{
+    float: left;
+    text-align: left;
+    font-size: 18px;
+}
+
+.link{
+    float: right;
+    font-size: 17px;
+    text-decoration: none;
+    color: blue;
+}
+
+.button{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: green;
+    font-weight: bold;
+    border-radius: 8px;
+    border: .5px solid;
+    margin: 10px 0;
+   }
+
+.signin{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.new{
+    justify-content: middle;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    margin: auto;
+    padding: 17px;
+    width: 410px;
+    height: 38px;
+    background-color: #fff;
+    border: .5px solid;
+}
+
+.new1{
+    font-size: 20px;
+    color: black;
+}
+
+.new2{
+    font-size: 20px;
+    color: blue;
+    text-decoration: none;
+}
+
+.links{
+    text-align: center;
+    font-size: 17px;
+   
+}
+
+.link1{
+    text-decoration: none;
+    color: blue;
+}
+
+.link2{
+    text-decoration: none;
+    color: rgb(112, 111, 111);
+}
